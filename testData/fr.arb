@@ -1,0 +1,12 @@
+{
+  "hello": "Bonjour le monde!",
+  "home": {
+    "welcome": "Bienvenue {{name}}!"
+  },
+  "missing": "",
+  "some": {
+    "deep": {
+      "tree": {}
+    }
+  }
+}

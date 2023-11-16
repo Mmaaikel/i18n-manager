@@ -1,0 +1,11 @@
+hello: こんにちは世界
+home:
+  welcome: '{{name}}さん、ようこそ！'
+missing: ''
+some:
+  deep:
+    tree: {}
+    multi-line: |-
+      aaa
+      www
+      eee
